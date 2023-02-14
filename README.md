@@ -13,7 +13,15 @@ Use for educational purposes and at your own risk.
 
 
 - [Linear algebra refresher](#linear-algebra-refresher)
-- [Partial differential equations](#partial-differential-equations)
+- [Discrete versus continuous time models](#discrete-versus-continuous-time-models)
+- [Analysis of dynamical systems](#analysis-of-dynamical-systems)
+  - [1D dynamical systems](#1d-dynamical-systems)
+  - [2D+ dynamical systems](#2d-dynamical-systems)
+- [Numerical methods for ODEs and PDEs](#numerical-methods-for-odes-and-pdes)
+- [Cellular automata](#cellular-automata)
+- [Discrete-event simulation and queuing models](#discrete-event-simulation-and-queuing-models)
+- [Input-output analysis](#input-output-analysis)
+- [Creating dynamical systems from observations](#creating-dynamical-systems-from-observations)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
