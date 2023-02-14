@@ -13,16 +13,6 @@ Use for educational purposes and at your own risk.
 
 
 - [Linear algebra refresher](#linear-algebra-refresher)
-- [Floating point numbers](#floating-point-numbers)
-- [Linear systems](#linear-systems)
-- [Least squares](#least-squares)
-- [Eigenvalues](#eigenvalues)
-- [Solving nonlinear equations](#solving-nonlinear-equations)
-- [Optimization](#optimization)
-- [Interpolation](#interpolation)
-- [Numerical integration and quadrature](#numerical-integration-and-quadrature)
-- [Initial value problems](#initial-value-problems)
-- [Ordinary differential equations](#ordinary-differential-equations)
 - [Partial differential equations](#partial-differential-equations)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
