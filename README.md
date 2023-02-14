@@ -19,5 +19,20 @@ Use for educational purposes and at your own risk.
 
 ## Linear algebra refresher 
 
-## Partial differential equations
+## Discrete versus continuous time models
 
+## Analysis of dynamical systems
+
+### 1D dynamical systems
+
+### 2D+ dynamical systems
+
+## Numerical methods for ODEs and PDEs
+
+## Cellular automata
+
+## Discrete-event simulation and queuing models
+
+## Input-output analysis
+
+## Creating dynamical systems from observations
