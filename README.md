@@ -64,6 +64,27 @@ Use for educational purposes and at your own risk.
 [Markov Chains & PageRank](https://disco.ethz.ch/courses/fs16/ti2/lecture/chapter11.pdf)
 
 ## Discrete-event simulation and queuing models
+- [Notes and Papers]
+[DISCRETE–EVENT SIMULATION OF QUEUING SYSTEMS](https://phyweb.physics.nus.edu.sg/~phytaysc/articles/queue.pdf)
+
+[Discrete-Event Simulation](https://www.cs.bu.edu/faculty/matta/Teaching/cs655-papers/shankar-des.pdf)
+
+- [Explanatory videos by MATLAB Tech Talks]
+[What Is Discrete Event Simulation](https://www.youtube.com/watch?v=21WQB0E-6-M)
+
+[Why Use Discrete Event Simulation](https://www.youtube.com/watch?v=adkeGlcqBAo)
+
+[Leveraging Stochastic Processes](https://www.youtube.com/watch?v=3EiniZbyeV0)
+
+[In context of Operations Research](https://www.youtube.com/watch?v=YkUT3fFrjpg)
+
+[Example of DES in digital communication
+systems](https://www.youtube.com/watch?v=w6SSng58DEw)
+
+- [Implementation/Code Examples]
+[Event discrete simulation with SimPy](https://www.youtube.com/watch?v=Bk91DoAEcjY)
+
+[Simulating a Queue](https://www.youtube.com/watch?v=WEA8m3j-Jqk)
 
 ## Input-output analysis
 [Textbook about control systems (github repo)](https://github.com/lugh56/control-and-system-book)
