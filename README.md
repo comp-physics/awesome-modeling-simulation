@@ -27,6 +27,11 @@ Use for educational purposes and at your own risk.
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Linear algebra refresher 
+[Gilbert Strang lectures on Linear Algebra ](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
+[Essence of linear algebra (3Blue1Brown video playlist)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+[Introduction to Linear and Matrix Algebra (Nathaniel Johnston) (textbooks)](https://gtvault-my.sharepoint.com/:b:/g/personal/qyu87_gatech_edu/EQpUWO9bB_ZGhb7hY5yx8QYBFbgRM22WXAIeq_qLURhYQQ)
+[Linear Algebra Done Right (Axler, Sheldon Jay) (textbooks)](https://gtvault-my.sharepoint.com/:b:/g/personal/qyu87_gatech_edu/EQpUWO9bB_ZGhb7hY5yx8QYBFbgRM22WXAIeq_qLURhYQQ)
+[Numerical Linear Algebra (Lloyd N. Trefethen, David Bau III) (textbooks)](https://gtvault-my.sharepoint.com/:b:/g/personal/qyu87_gatech_edu/EQpUWO9bB_ZGhb7hY5yx8QYBFbgRM22WXAIeq_qLURhYQQ)
 
 ## Discrete versus continuous time models
 
