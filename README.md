@@ -38,6 +38,9 @@ Use for educational purposes and at your own risk.
 [Numerical Linear Algebra (Lloyd N. Trefethen, David Bau III) (textbooks)](https://gtvault-my.sharepoint.com/:b:/g/personal/qyu87_gatech_edu/ERmaipCm0ilMjIHW9uMlOP4BlgPobzBuqzrjXankkrIVoA)
 
 ## Discrete versus continuous time models
+[Linear System Representation- MATLAB & Simulink Documentation](https://www.mathworks.com/help/control/linear-system-modeling.html?s_tid=CRUX_lftnav)
+
+[Basic Models- including continuous and discrete time models](https://www.mathworks.com/help/control/fixed-coefficient-models.html)
 
 ## Analysis of dynamical systems
 
@@ -46,11 +49,23 @@ Use for educational purposes and at your own risk.
 ### 2D+ dynamical systems
 
 ## Numerical methods for ODEs and PDEs
+[Numerical Analysis 9th Ed (textbooks)](https://gtvault-my.sharepoint.com/:b:/g/personal/qyu87_gatech_edu/ERDdqpOHU1tAlOT-QXlgzZ4BM9gKokKUfS2L2Fk9uEtl_Q?e=TsqKvi)
+
+[Differential equations (3Blue1Brown video playlist)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
 
 ## Cellular automata
+[2D cellular automata demo (github repo)](https://github.com/Chakazul/Lenia) 
+
+[Cellular Automata Simulator](https://www.fourmilab.ch/cellab/manual/chap1.html)
+
+## Markov chain model
+[Markov chain application: Google’s PageRank algorithm (slides)](https://www2.math.upenn.edu/~kazdan/312F12/JJ/MarkovChains/markov_google.pdf)
+
+[Markov Chains & PageRank](https://disco.ethz.ch/courses/fs16/ti2/lecture/chapter11.pdf)
 
 ## Discrete-event simulation and queuing models
 
 ## Input-output analysis
+[Textbook about control systems (github repo)](https://github.com/lugh56/control-and-system-book)
 
 ## Creating dynamical systems from observations
