@@ -102,7 +102,7 @@ systems](https://www.youtube.com/watch?v=w6SSng58DEw)
 
 ## Creating dynamical systems from observations
 
-  - [Model Reduction of Dynamic Systems: A Data Driven perspective](https://epubs.siam.org/doi/pdf/10.1137/16M1087229)
+  - [An Experimentalist’s Introduction to the Observation of Dynamical Systems](https://www.worldscientific.com/doi/10.1142/9789814415729_0012)
   
   - [Introduction to Learning Dynamical Systems](https://cs.brown.edu/research/ai/dynamics/tutorial/Documents/DynamicalSystems.html)
 
