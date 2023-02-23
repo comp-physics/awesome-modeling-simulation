@@ -28,20 +28,22 @@ Use for educational purposes and at your own risk.
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Linear algebra refresher 
-[Gilbert Strang lectures on Linear Algebra ](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
 
-[Essence of linear algebra (3Blue1Brown video playlist)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Gilbert Strang lectures on Linear Algebra ](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
 
-[Introduction to Linear and Matrix Algebra (Nathaniel Johnston) (textbooks)](https://gtvault-my.sharepoint.com/:b:/g/personal/qyu87_gatech_edu/EQpUWO9bB_ZGhb7hY5yx8QYBFbgRM22WXAIeq_qLURhYQQ)
+- [Essence of linear algebra (3Blue1Brown video playlist)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-[Linear Algebra Done Right (Axler, Sheldon Jay) (textbooks)](https://gtvault-my.sharepoint.com/:b:/g/personal/qyu87_gatech_edu/ETg_8WDHONVBv1OTo1YteFgBoOsT2whMpFYV-E7Lv1cuDQ)
+- [Introduction to Linear and Matrix Algebra (Nathaniel Johnston) (textbooks)](https://gtvault-my.sharepoint.com/:b:/g/personal/qyu87_gatech_edu/EQpUWO9bB_ZGhb7hY5yx8QYBFbgRM22WXAIeq_qLURhYQQ)
 
-[Numerical Linear Algebra (Lloyd N. Trefethen, David Bau III) (textbooks)](https://gtvault-my.sharepoint.com/:b:/g/personal/qyu87_gatech_edu/ERmaipCm0ilMjIHW9uMlOP4BlgPobzBuqzrjXankkrIVoA)
+- [Linear Algebra Done Right (Axler, Sheldon Jay) (textbooks)](https://gtvault-my.sharepoint.com/:b:/g/personal/qyu87_gatech_edu/ETg_8WDHONVBv1OTo1YteFgBoOsT2whMpFYV-E7Lv1cuDQ)
+
+- [Numerical Linear Algebra (Lloyd N. Trefethen, David Bau III) (textbooks)](https://gtvault-my.sharepoint.com/:b:/g/personal/qyu87_gatech_edu/ERmaipCm0ilMjIHW9uMlOP4BlgPobzBuqzrjXankkrIVoA)
 
 ## Discrete versus continuous time models
-[Linear System Representation- MATLAB & Simulink Documentation](https://www.mathworks.com/help/control/linear-system-modeling.html?s_tid=CRUX_lftnav)
 
-[Basic Models- including continuous and discrete time models](https://www.mathworks.com/help/control/fixed-coefficient-models.html)
+- [Linear System Representation- MATLAB & Simulink Documentation](https://www.mathworks.com/help/control/linear-system-modeling.html?s_tid=CRUX_lftnav)
+
+- [Basic Models- including continuous and discrete time models](https://www.mathworks.com/help/control/fixed-coefficient-models.html)
 
 ## Analysis of dynamical systems
 
@@ -50,47 +52,52 @@ Use for educational purposes and at your own risk.
 ### 2D+ dynamical systems
 
 ## Numerical methods for ODEs and PDEs
-[Numerical Analysis 9th Ed (textbooks)](https://gtvault-my.sharepoint.com/:b:/g/personal/qyu87_gatech_edu/ERDdqpOHU1tAlOT-QXlgzZ4BM9gKokKUfS2L2Fk9uEtl_Q?e=TsqKvi)
 
-[Differential equations (3Blue1Brown video playlist)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
+- [Numerical Analysis 9th Ed (textbooks)](https://gtvault-my.sharepoint.com/:b:/g/personal/qyu87_gatech_edu/ERDdqpOHU1tAlOT-QXlgzZ4BM9gKokKUfS2L2Fk9uEtl_Q?e=TsqKvi)
+
+- [Differential equations (3Blue1Brown video playlist)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
 
 ## Cellular automata
-[2D cellular automata demo (github repo)](https://github.com/Chakazul/Lenia) 
 
-[Cellular Automata Simulator](https://www.fourmilab.ch/cellab/manual/chap1.html)
+- [2D cellular automata demo (github repo)](https://github.com/Chakazul/Lenia) 
+
+- [Cellular Automata Simulator](https://www.fourmilab.ch/cellab/manual/chap1.html)
 
 ## Markov chain model
-[Markov chain application: Google’s PageRank algorithm (slides)](https://www2.math.upenn.edu/~kazdan/312F12/JJ/MarkovChains/markov_google.pdf)
 
-[Markov Chains & PageRank](https://disco.ethz.ch/courses/fs16/ti2/lecture/chapter11.pdf)
+- [Markov chain application: Google’s PageRank algorithm (slides)](https://www2.math.upenn.edu/~kazdan/312F12/JJ/MarkovChains/markov_google.pdf)
+
+- [Markov Chains & PageRank](https://disco.ethz.ch/courses/fs16/ti2/lecture/chapter11.pdf)
 
 ## Discrete-event simulation and queuing models
+
 - Notes and Papers
 
-  [DISCRETE–EVENT SIMULATION OF QUEUING SYSTEMS](https://phyweb.physics.nus.edu.sg/~phytaysc/articles/queue.pdf)
+  - [DISCRETE–EVENT SIMULATION OF QUEUING SYSTEMS](https://phyweb.physics.nus.edu.sg/~phytaysc/articles/queue.pdf)
   
-  [Discrete-Event Simulation](https://www.cs.bu.edu/faculty/matta/Teaching/cs655-papers/shankar-des.pdf)
+  - [Discrete-Event Simulation](https://www.cs.bu.edu/faculty/matta/Teaching/cs655-papers/shankar-des.pdf)
 
 - Explanatory videos by MATLAB Tech Talks
 
-  [What Is Discrete Event Simulation](https://www.youtube.com/watch?v=21WQB0E-6-M)
+  - [What Is Discrete Event Simulation](https://www.youtube.com/watch?v=21WQB0E-6-M)
 
-  [Why Use Discrete Event Simulation](https://www.youtube.com/watch?v=adkeGlcqBAo)
+  - [Why Use Discrete Event Simulation](https://www.youtube.com/watch?v=adkeGlcqBAo)
 
-  [Leveraging Stochastic Processes](https://www.youtube.com/watch?v=3EiniZbyeV0)
+  - [Leveraging Stochastic Processes](https://www.youtube.com/watch?v=3EiniZbyeV0)
 
-  [In context of Operations Research](https://www.youtube.com/watch?v=YkUT3fFrjpg)
+  - [In context of Operations Research](https://www.youtube.com/watch?v=YkUT3fFrjpg)
   
-  [Example of DES in digital communication
+  - [Example of DES in digital communication
 systems](https://www.youtube.com/watch?v=w6SSng58DEw)
 
 - Implementation/Code Examples
 
-  [Event discrete simulation with SimPy](https://www.youtube.com/watch?v=Bk91DoAEcjY)
+  - [Event discrete simulation with SimPy](https://www.youtube.com/watch?v=Bk91DoAEcjY)
 
-  [Simulating a Queue](https://www.youtube.com/watch?v=WEA8m3j-Jqk)
+  - [Simulating a Queue](https://www.youtube.com/watch?v=WEA8m3j-Jqk)
 
 ## Input-output analysis
-[Textbook about control systems (github repo)](https://github.com/lugh56/control-and-system-book)
+
+- [Textbook about control systems (github repo)](https://github.com/lugh56/control-and-system-book)
 
 ## Creating dynamical systems from observations
