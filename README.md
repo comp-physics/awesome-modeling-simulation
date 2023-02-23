@@ -20,6 +20,7 @@ Use for educational purposes and at your own risk.
   - [2D+ dynamical systems](#2d-dynamical-systems)
 - [Numerical methods for ODEs and PDEs](#numerical-methods-for-odes-and-pdes)
 - [Cellular automata](#cellular-automata)
+- [Markov chain model](#markov-chain-model)
 - [Discrete-event simulation and queuing models](#discrete-event-simulation-and-queuing-models)
 - [Input-output analysis](#input-output-analysis)
 - [Creating dynamical systems from observations](#creating-dynamical-systems-from-observations)
