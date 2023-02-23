@@ -101,3 +101,11 @@ systems](https://www.youtube.com/watch?v=w6SSng58DEw)
 - [Textbook about control systems (github repo)](https://github.com/lugh56/control-and-system-book)
 
 ## Creating dynamical systems from observations
+
+  - [Model Reduction of Dynamic Systems: A Data Driven perspective](https://epubs.siam.org/doi/pdf/10.1137/16M1087229)
+  
+  - [Introduction to Learning Dynamical Systems](https://cs.brown.edu/research/ai/dynamics/tutorial/Documents/DynamicalSystems.html)
+
+  - [Learning Dynamical Systems from Partial Observations](https://arxiv.org/pdf/1902.11136.pdf)
+
+  - [Learning Dynamical Systems from Data](https://www.sciencedirect.com/science/article/pii/S0167278922002500)
