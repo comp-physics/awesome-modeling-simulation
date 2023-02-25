@@ -31,13 +31,11 @@ Use for educational purposes and at your own risk.
 
 - [Gilbert Strang lectures on Linear Algebra ](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
 
-- [Essence of linear algebra (3Blue1Brown video playlist)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Introduction to Linear and Matrix Algebra (Nathaniel Johnston) (textbooks)](https://link.springer.com/book/10.1007/978-3-030-52811-9)
 
-- [Introduction to Linear and Matrix Algebra (Nathaniel Johnston) (textbooks)](https://gtvault-my.sharepoint.com/:b:/g/personal/qyu87_gatech_edu/EQpUWO9bB_ZGhb7hY5yx8QYBFbgRM22WXAIeq_qLURhYQQ)
+- [Linear Algebra Done Right (Axler, Sheldon Jay) (textbooks)](https://linear.axler.net/)
 
-- [Linear Algebra Done Right (Axler, Sheldon Jay) (textbooks)](https://gtvault-my.sharepoint.com/:b:/g/personal/qyu87_gatech_edu/ETg_8WDHONVBv1OTo1YteFgBoOsT2whMpFYV-E7Lv1cuDQ)
-
-- [Numerical Linear Algebra (Lloyd N. Trefethen, David Bau III) (textbooks)](https://gtvault-my.sharepoint.com/:b:/g/personal/qyu87_gatech_edu/ERmaipCm0ilMjIHW9uMlOP4BlgPobzBuqzrjXankkrIVoA)
+- [Numerical Linear Algebra (Lloyd N. Trefethen, David Bau III) (textbooks)](https://www.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617)
 
 ## Discrete versus continuous time models
 
@@ -49,9 +47,29 @@ Use for educational purposes and at your own risk.
 
 ### 1D dynamical systems
 
+- [One dimensional Systems (video)](https://www.youtube.com/watch?v=YNIm2Op7UPg)
+
+- [Geometric Approach 1-D SYSTEMS](http://www.ccs.fau.edu/~fuchs/pub/Huys_nonlin.pdf)
+
+- [Princeton Notes for 1D systems](http://pillowlab.princeton.edu/teaching/mathtools21fall/notes/notes_Dynamics.pdf)
+
+- [Cornell Notes for 1D systems](http://www-users.med.cornell.edu/~jdvicto/jdv/mathcourse1617/mathcourse1617_Drover.pdf)
+
 ### 2D+ dynamical systems
 
+- [Two dimensional linear systems (video)](https://www.youtube.com/watch?v=QrHRaA93Nrg)
+
+- [Two dimensional nonlinear systems fixed points (video)](https://www.youtube.com/watch?v=9yh9DmNqdk4)
+
+- [Bifurcations in two dimensional systems (video)](https://www.youtube.com/watch?v=oqKAVqe71vw)
+
+- [Cornell Notes for 2D systems](http://www-users.med.cornell.edu/~jdvicto/jdv/mathcourse1617/mathcourse1617_Boie.pdf)
+
+- [Introduction to Complex Systems](https://rocs.hu-berlin.de/courses/complex-systems-2021/script/2-d-systems/)
+
 ## Numerical methods for ODEs and PDEs
+
+- [Numerical Analysis 9th Ed (textbooks)](https://www.amazon.com/Numerical-Analysis-9th-Book-Only/dp/B0059JHM6M)
 
 - [Numerical Analysis 9th Ed (textbooks)](https://gtvault-my.sharepoint.com/:b:/g/personal/qyu87_gatech_edu/ERDdqpOHU1tAlOT-QXlgzZ4BM9gKokKUfS2L2Fk9uEtl_Q?e=TsqKvi)
 
@@ -87,8 +105,7 @@ Use for educational purposes and at your own risk.
 
   - [In context of Operations Research](https://www.youtube.com/watch?v=YkUT3fFrjpg)
   
-  - [Example of DES in digital communication
-systems](https://www.youtube.com/watch?v=w6SSng58DEw)
+  - [Example of DES in digital communication systems](https://www.youtube.com/watch?v=w6SSng58DEw)
 
 - Implementation/Code Examples
 
