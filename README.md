@@ -49,11 +49,11 @@ Use for educational purposes and at your own risk.
 
 - [One dimensional Systems (video)](https://www.youtube.com/watch?v=YNIm2Op7UPg)
 
-- [Geometric Approach 1-D SYSTEMS](http://www.ccs.fau.edu/~fuchs/pub/Huys_nonlin.pdf)
+- [Geometric Approach 1D systems](http://www.ccs.fau.edu/~fuchs/pub/Huys_nonlin.pdf)
 
-- [Princeton Notes for 1D systems](http://pillowlab.princeton.edu/teaching/mathtools21fall/notes/notes_Dynamics.pdf)
+- [Princeton Notes for 1D systems (Pillow Lab)](http://pillowlab.princeton.edu/teaching/mathtools21fall/notes/notes_Dynamics.pdf)
 
-- [Cornell Notes for 1D systems](http://www-users.med.cornell.edu/~jdvicto/jdv/mathcourse1617/mathcourse1617_Drover.pdf)
+- [Cornell Notes for 1D systems (Jonathan Victor)](http://www-users.med.cornell.edu/~jdvicto/jdv/mathcourse1617/mathcourse1617_Drover.pdf)
 
 ### 2D+ dynamical systems
 
@@ -63,15 +63,13 @@ Use for educational purposes and at your own risk.
 
 - [Bifurcations in two dimensional systems (video)](https://www.youtube.com/watch?v=oqKAVqe71vw)
 
-- [Cornell Notes for 2D systems](http://www-users.med.cornell.edu/~jdvicto/jdv/mathcourse1617/mathcourse1617_Boie.pdf)
+- [Cornell Notes for 2D systems (Jonathan Victor)](http://www-users.med.cornell.edu/~jdvicto/jdv/mathcourse1617/mathcourse1617_Boie.pdf)
 
-- [Introduction to Complex Systems](https://rocs.hu-berlin.de/courses/complex-systems-2021/script/2-d-systems/)
+- [Introduction to Complex Systems (Dirk Brockmann)](https://rocs.hu-berlin.de/courses/complex-systems-2021/script/2-d-systems/)
 
 ## Numerical methods for ODEs and PDEs
 
 - [Numerical Analysis 9th Ed (textbooks)](https://www.amazon.com/Numerical-Analysis-9th-Book-Only/dp/B0059JHM6M)
-
-- [Numerical Analysis 9th Ed (textbooks)](https://gtvault-my.sharepoint.com/:b:/g/personal/qyu87_gatech_edu/ERDdqpOHU1tAlOT-QXlgzZ4BM9gKokKUfS2L2Fk9uEtl_Q?e=TsqKvi)
 
 - [Differential equations (3Blue1Brown video playlist)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
 
@@ -91,7 +89,7 @@ Use for educational purposes and at your own risk.
 
 - Notes and Papers
 
-  - [DISCRETE–EVENT SIMULATION OF QUEUING SYSTEMS](https://phyweb.physics.nus.edu.sg/~phytaysc/articles/queue.pdf)
+  - [Discrete-event simulation of queuing systems](https://phyweb.physics.nus.edu.sg/~phytaysc/articles/queue.pdf)
   
   - [Discrete-Event Simulation](https://www.cs.bu.edu/faculty/matta/Teaching/cs655-papers/shankar-des.pdf)
 
@@ -109,13 +107,13 @@ Use for educational purposes and at your own risk.
 
 - Implementation/Code Examples
 
-  - [Event discrete simulation with SimPy](https://www.youtube.com/watch?v=Bk91DoAEcjY)
+  - [Event discrete simulation with SimPy (video)](https://www.youtube.com/watch?v=Bk91DoAEcjY)
 
-  - [Simulating a Queue](https://www.youtube.com/watch?v=WEA8m3j-Jqk)
+  - [Simulating a Queue (video)](https://www.youtube.com/watch?v=WEA8m3j-Jqk)
 
 ## Input-output analysis
 
-- [Textbook about control systems (github repo)](https://github.com/lugh56/control-and-system-book)
+- [Textbook about control systems (book, via GitHub repo)](https://github.com/lugh56/control-and-system-book)
 
 ## Creating dynamical systems from observations
 
