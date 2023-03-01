@@ -84,6 +84,8 @@ Use for educational purposes and at your own risk.
 
 - [Differential equations (3Blue1Brown video playlist)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
 
+- [Introduction to Numerical Simulation (MIT OpenCourseware, slides)](https://ocw.mit.edu/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/pages/lecture-notes/)
+
 ## Cellular automata
 
 - [2D cellular automata demo (github repo)](https://github.com/Chakazul/Lenia) 
