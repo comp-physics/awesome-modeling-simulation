@@ -48,6 +48,8 @@ Use for educational purposes and at your own risk.
 
 - [How to build a mathematical model? (notes from Kata Murty)](http://www-personal.umich.edu/~murty/510/510slides1.pdf)
 
+- [Introduction to Modeling and Simulation (Markus J. Buehler, MIT)](https://ocw.mit.edu/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/resources/mit3_021js12_p1_l1/)
+
 ## Discrete versus continuous time models
 
 - [Linear System Representation- MATLAB & Simulink Documentation](https://www.mathworks.com/help/control/linear-system-modeling.html?s_tid=CRUX_lftnav)
