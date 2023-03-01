@@ -14,6 +14,7 @@ Use for educational purposes and at your own risk.
 
 
 - [Linear algebra refresher](#linear-algebra-refresher)
+- [How to build a mathematical model?](#how-to-build-a-mathematical-model)
 - [Discrete versus continuous time models](#discrete-versus-continuous-time-models)
 - [Analysis of dynamical systems](#analysis-of-dynamical-systems)
   - [1D dynamical systems](#1d-dynamical-systems)
