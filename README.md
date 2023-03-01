@@ -46,6 +46,8 @@ Use for educational purposes and at your own risk.
 
 - [An Introduction to Mathematical Modelling (course lecture notes, Glenn Marion)](https://people.maths.bris.ac.uk/~madjl/course_text.pdf)
 
+- [How to build a mathematical model? (notes from Kata Murty)](http://www-personal.umich.edu/~murty/510/510slides1.pdf)
+
 ## Discrete versus continuous time models
 
 - [Linear System Representation- MATLAB & Simulink Documentation](https://www.mathworks.com/help/control/linear-system-modeling.html?s_tid=CRUX_lftnav)
