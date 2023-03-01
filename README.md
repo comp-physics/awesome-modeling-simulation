@@ -103,7 +103,7 @@ Use for educational purposes and at your own risk.
 
   - [In context of Operations Research](https://www.youtube.com/watch?v=YkUT3fFrjpg)
   
-  - [Example of DES in digital communication systems](https://www.youtube.com/watch?v=w6SSng58DEw)
+  - [Example of DES in digital communication systems (video)](https://www.youtube.com/watch?v=w6SSng58DEw)
 
 - Implementation/Code Examples
 
@@ -111,7 +111,7 @@ Use for educational purposes and at your own risk.
 
   - [Simulating a Queue (video)](https://www.youtube.com/watch?v=WEA8m3j-Jqk)
   
-  - [Examples of using Python to write discrete-event simulations](https://www.youtube.com/watch?v=0KvA92ykPKI))
+  - [Examples of using Python to write discrete-event simulations (video)](https://www.youtube.com/watch?v=0KvA92ykPKI))
 
   - [Python code example](https://github.com/mwong009/simulation)
 
