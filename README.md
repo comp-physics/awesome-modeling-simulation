@@ -37,6 +37,14 @@ Use for educational purposes and at your own risk.
 
 - [Numerical Linear Algebra (Lloyd N. Trefethen, David Bau III) (textbooks)](https://www.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617)
 
+## How to build a mathematical model?
+
+- [Introduction to Mathematical Modelling (slides, Prof. Das)](https://www.slideshare.net/arupparia/introduction-to-mathematical-modelling-42588379)
+
+- [Intro. to mathematical modeling (slides, Andrea Doescl-Wilson)](https://jvanderw.une.edu.au/Lecture1_IntroToMathModelling.pdf)
+
+- [An Introduction to Mathematical Modelling (course lecture notes, Glenn Marion)](https://people.maths.bris.ac.uk/~madjl/course_text.pdf)
+
 ## Discrete versus continuous time models
 
 - [Linear System Representation- MATLAB & Simulink Documentation](https://www.mathworks.com/help/control/linear-system-modeling.html?s_tid=CRUX_lftnav)
