@@ -136,7 +136,7 @@ Use for educational purposes and at your own risk.
 
 - [Textbook about control systems (book, via GitHub repo)](https://github.com/lugh56/control-and-system-book)
 
-- [Input Modeling] (https://softwaresim.com/blog/input-modeling-as-a-foundation-for-simulation/)
+- [Input Modeling](https://softwaresim.com/blog/input-modeling-as-a-foundation-for-simulation/)
 
 ## Creating dynamical systems from observations
 
