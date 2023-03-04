@@ -100,6 +100,8 @@ Use for educational purposes and at your own risk.
 
 - [Markov Chains & PageRank](https://disco.ethz.ch/courses/fs16/ti2/lecture/chapter11.pdf)
 
+- [Markov Chain Model Git repos](https://github.com/topics/markov-chain-model)
+
 ## Discrete-event simulation and queuing models
 
 - Notes and Papers
@@ -133,6 +135,8 @@ Use for educational purposes and at your own risk.
 ## Input-output analysis
 
 - [Textbook about control systems (book, via GitHub repo)](https://github.com/lugh56/control-and-system-book)
+
+- [Input Modeling] (https://softwaresim.com/blog/input-modeling-as-a-foundation-for-simulation/)
 
 ## Creating dynamical systems from observations
 
