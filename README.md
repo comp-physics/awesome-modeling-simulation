@@ -94,6 +94,8 @@ Use for educational purposes and at your own risk.
 
 - [Cellular Automata Simulator](https://www.fourmilab.ch/cellab/manual/chap1.html)
 
+- [Towards DataScience Article](https://towardsdatascience.com/algorithmic-beauty-an-introduction-to-cellular-automata-f53179b3cf8f)
+
 ## Markov chain model
 
 - [Markov chain application: Google’s PageRank algorithm (slides)](https://www2.math.upenn.edu/~kazdan/312F12/JJ/MarkovChains/markov_google.pdf)
