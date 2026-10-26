@@ -82,6 +82,8 @@ Use for educational purposes and at your own risk.
 
 ## Numerical methods for ODEs and PDEs
 
+- [AgentFEM finite-element exercises](https://lab.haoming-luo.com/learn/en.html) (worked exercises in mechanics and heat conduction, with reference results and analytical checks; local AgentFEM installation required to run the calculations)
+
 - [Numerical Analysis 9th Ed (textbooks)](https://www.amazon.com/Numerical-Analysis-9th-Book-Only/dp/B0059JHM6M)
 
 - [Differential equations (3Blue1Brown video playlist)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
